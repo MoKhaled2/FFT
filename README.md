@@ -52,3 +52,34 @@ The `Complex` class provides operations for complex numbers:
    ```bash
    git clone https://github.com/MoKhaled2/fft-complex.git
    cd fft-complex
+## Example
+
+### Input:
+```
+How many N do you Want to enter: 4
+enter 1 number: 1
+enter 2 number: -1
+enter 3 number: 0
+enter 4 number: 1
+
+```
+
+### Output:
+```
+-------------
+|  NO NAME  |
+-------------
+
+THE RESULT IS:
+------------------------------
+|  X[0] = 1.00 + 0.00i
+|  X[1] = 1.00 - 2.00i
+|  X[2] = 1.00 + 0.00i
+|  X[3] = 1.00 + 2.00i
+------------------------------
+
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
